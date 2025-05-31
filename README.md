@@ -8,7 +8,7 @@ Este repositório contém uma API desenvolvida com Java e Spring Boot para geren
 git clone https://github.com/garenks/API-gestao_livro.git
 ```
 
- ## 🛠Configure o banco de dados
+ ## 🛠Configure o banco de dados local
 Altere o arquivo src/main/resources/application.properties ou application.yml com o User e Senha do seu banco de dados local.
 
 ## Exemplo com MySQL:
